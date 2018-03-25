@@ -3,6 +3,7 @@ using Unity.Jobs;
 using UnityEngine;
 using UnityEngine.Jobs;
 using UnityEngine.Rendering;
+using Unity.Mathematics;
 
 public class FluidSim : MonoBehaviour
 {
